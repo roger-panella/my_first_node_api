@@ -1,0 +1,25 @@
+[
+  {
+    "Name": "Sam Groesch",
+    "SpiritAnimal": "Squirrel",
+    "DoTheyLikeIt": false
+  },
+
+  {
+    "Name": "Andrew Dushane",
+    "SpiritAnimal": "Wolf",
+    "DoTheyLikeIt": true
+  },
+
+  {
+    "Name": "Roger Panella",
+    "SpiritAnimal": "Rabbit",
+    "DoTheyLikeIt": true
+  },
+
+  {
+    "Name": "Ruth Thatcher",
+    "SpiritAnimal": "Cat",
+    "DoTheyLikeIt": true
+  }
+]
